@@ -1,0 +1,2 @@
+SELECT * FROM legosets
+LIMIT 50;
